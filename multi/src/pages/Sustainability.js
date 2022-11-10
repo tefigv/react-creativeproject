@@ -1,6 +1,6 @@
-import sea from './img/plastic.jpeg';
-import bottle from './img/bottle.jpg';
-import bag from './img/bag.jpg';
+import sea from '../img/plastic.jpeg';
+import bottle from '../img/bottle.jpg';
+import bag from '../img/bag.jpg';
 
 const Sustainability = () => {
 

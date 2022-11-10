@@ -1,6 +1,6 @@
-import tooth from './img/toothbits.png';
-import mouth from './img/mouthwash.png';
-import gel from './img/whitening-gel.png';
+import tooth from '../img/toothbits.png';
+import mouth from '../img/mouthwash.png';
+import gel from '../img/whitening-gel.png';
 
 
 const Shop = () => {

@@ -1,6 +1,6 @@
-import ceo from './img/ceo1.png';
-import pack from './img/pack.png';
-import lab from './img/lab.png';
+import ceo from '../img/ceo1.png';
+import pack from '../img/pack.png';
+import lab from '../img/lab.png';
 
 const About = () => {
     return (

@@ -1,5 +1,5 @@
-import header from './img/header.jpg';
-import bundle from './img/bundle-ho.jpg';
+import header from '../img/header.jpg';
+import bundle from '../img/bundle-ho.jpg';
 
 const Home = () => {
     return( <>
