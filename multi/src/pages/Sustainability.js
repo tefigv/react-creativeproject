@@ -7,7 +7,7 @@ const Sustainability = () => {
   return (     
     <>     
   <div class='header'>
-      <img class='img-header' src={sea}/> 
+      <img class='img-header' src={sea} alt="plastic in ocean"/> 
       <div class='center'>
           <h1>Sustainability</h1>
           <p>Join us and millions of others on our journey to
@@ -30,7 +30,7 @@ const Sustainability = () => {
               <p>We only ever use glass bottles. Why? Unlike plastic, glass is infinitely recyclable, looks great, and breaks down into sand at the end of its life.</p>
           </div>
           <div class='img-wrapper left'>
-              <img class='img-packaging' src={bottle}/>
+              <img class='img-packaging' src={bottle} alt="container"/>
           </div>
       </div> 
       <div class='envelopes-wrapper'>
@@ -39,7 +39,7 @@ const Sustainability = () => {
               <p>nstead of plastic poly-mailers, we ship with kraft envelopes padded with post-consumer recycled newspapers.</p>
           </div>
           <div class='img-wrapper right'>
-              <img class='img-packaging' src={bag}/>
+              <img class='img-packaging' src={bag} alt="plastic bags"/>
           </div>
         
       </div>   

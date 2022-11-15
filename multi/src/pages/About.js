@@ -6,7 +6,7 @@ const About = () => {
     return (
         <>
             <div class = 'ceo'>
-                    <img src={ceo}/>
+                    <img src={ceo} alt="company CEO"/>
             </div>
             <div class='title'>
                 <h2>Every Little Bit Counts.</h2>
@@ -16,7 +16,7 @@ const About = () => {
                 <p>Bite started with two questions: Why does toothpaste come in plastic tubes and what exactly are we putting in our bodies when we brush our teeth?</p>
             </div>
             <div class='pack'>
-                <img src={pack}/>
+                <img src={pack} alt="packaging"/>
             </div>    
             <div class='float'>
                 <div class='text'>
@@ -25,7 +25,7 @@ const About = () => {
                     empty toothpaste tube or glossing over the ingredients list, small daily actions can shape the future of our planet. By uncovering how we can be 
                     better to ourselves and to the earth, we are one step closer to a healthier and plastic-free world.</p>
                 </div>
-                <img src={lab}/>
+                <img src={lab} alt="lab pic"/>
                 </div>   
         </>       
        

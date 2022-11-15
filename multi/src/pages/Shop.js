@@ -21,7 +21,7 @@ const Shop = () => {
       <div class='products-wraper'>
         <div class='products'>
           <div class='product'>
-            <img src={tooth}/>
+            <img src={tooth} alt = "thoothpaste"/>
             <p>Toothpaste Bits</p>
             <p><em>Fresh Mint</em></p><br/>
             <div class="star">
@@ -33,7 +33,7 @@ const Shop = () => {
             </div>    
           </div>    
           <div class='product'>
-            <img src={mouth}/>
+            <img src={mouth} alt = "mouthwash"/>
             <p>Mouthwash Bits</p>
             <p><em>Fresh Mint</em></p><br/>
             <div class="star">
@@ -45,7 +45,7 @@ const Shop = () => {
             </div>    
           </div>
           <div class='product'>
-            <img src={gel}/>
+            <img src={gel} alt = "whiteing-gel"/>
             <p>Whitening Gel</p>
             <p><em>Teeth Whitening Kit</em></p><br/>
             <div class="star">
